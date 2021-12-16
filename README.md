@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 <br>
 <p align="center"  href="https://github.com/phu024">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=htmle&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&theme=react" alt="Martin's GitHub Stats" />
 </p>
 
 <p align="center">
+<<<<<<< HEAD
 <img src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula"/>
+=======
+<img high="10px" src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true"/>
+>>>>>>> 7075326e02685cae5aa8f42718df48f206bf12e1
 </p>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
