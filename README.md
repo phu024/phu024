@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<<<<<<< HEAD
 <img src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula"/>
-=======
-<img high="10px" src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true"/>
->>>>>>> 7075326e02685cae5aa8f42718df48f206bf12e1
 </p>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
