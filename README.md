@@ -33,10 +33,3 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
     <a href="https://www.instagram.com/iam.phu_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/phuwadon.dec" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:phuwadon.dev@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-<!--
-[![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
-- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
-![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
-- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
--->
