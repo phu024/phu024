@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <!--
 **phu024/phu024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,11 @@ Here are some ideas to get you started:
 <p align="center"  href="https://github.com/phu024">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" />
+</p>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
@@ -26,4 +31,5 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/iam.phu_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/phu024/phu024/blob/main/svg/Instagram.svg"></a>
     <a href="https://www.facebook.com/phuwadon.dec" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:phuwadon.dev@gmail.com?" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/phu024/phu024/blob/main/svg/Gmail.svg"></a>
- </p> 
+
+ </p>
