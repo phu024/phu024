@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img high="10px" src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula"/>
+<img high="10px" src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true"/>
 </p>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
