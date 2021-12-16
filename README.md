@@ -21,8 +21,6 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 -->
 
 
-## &#x1f4c8; GitHub Stats
-
 <br>
 
 <a href="https://github.com/braydoncoyer">
