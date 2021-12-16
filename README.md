@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <br>
 <p align="center"  href="https://github.com/phu024">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=htmle&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&theme=react" alt="Martin's GitHub Stats" />
 </p>
 
 <p align="center">
