@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<img align='right' src="https://github.com/phu024/phu024/blob/main/gif/60cd1c1bf1b73504a5d0195186093b5e.gif" width="300" alt="giphy">
+<img align='right' src="https://github.com/phu024/phu024/blob/main/gif/60cd1c1bf1b73504a5d0195186093b5e.gif" width="350" alt="giphy">
     </p>
-<p  href="https://github.com/phu024">
+    
+    
+<p href="https://github.com/phu024">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=htmle&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&theme=react" alt="Martin's GitHub Stats" />
 </p>
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
+    
+    
 <p align="center">
     <a href="https://www.linkedin.com/in/phuwadon-decharam-83abaa218/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/iam.phu_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/phu024/phu024/blob/main/svg/Instagram.svg"></a>
