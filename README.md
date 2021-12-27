@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
    <h3> Connect with me
       <a href="https://gifyu.com/image/Zy2f">
-         <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"/>
+         <img src="https://github.com/phu024/phu024/blob/main/gif/Handshake.gif" width="50px"/>
       </a>
    </h3> 
 </div>      
