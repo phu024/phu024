@@ -47,5 +47,3 @@ Here are some ideas to get you started:
    </a>
 </p>
 
-<<<<<<< HEAD
-![github contribution grid snake animation](https://raw.githubusercontent.com/phu024/phu024/output/github-contribution-grid-snake.svg)
