@@ -49,7 +49,3 @@ Here are some ideas to get you started:
 
 <<<<<<< HEAD
 ![github contribution grid snake animation](https://raw.githubusercontent.com/phu024/phu024/output/github-contribution-grid-snake.svg)
-
-_generated with [phu024/snk](https://github.com/phu024/snk)_
-=======
->>>>>>> 3814d9ebf42a99b78644ba5ce9615b32dc1a559d
