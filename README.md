@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula&margin-w=15&margin-h=15&column=4&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 
