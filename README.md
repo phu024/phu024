@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 <p href="https://github.com/phu024">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=htmle&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&theme=react" alt="Martin's GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=htmle" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true" alt="Martin's GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=phu024&theme=dracula&margin-w=15&margin-h=15&column=4"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=phu024&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 
