@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true" alt="Martin's GitHub Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=phu024&margin-w=15&margin-h=15&column=4"/>
 </p>
-
+ -->
 
 <div align="center">
    <h3> Connect with me
