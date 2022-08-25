@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    </h3> 
 </div>      
 <p align="center">
-    <a href="https://www.linkedin.com/in/phuwadon-decharam-83abaa218/" target="_blank">
+    <a href="https://www.linkedin.com/in/phuwadon-dec" target="_blank">
        <img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
    </a>
     <a href="https://www.instagram.com/iam.phu_" target="_blank">
