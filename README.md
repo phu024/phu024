@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>      
 <p align="center">
     <a href="https://www.linkedin.com/in/phuwadon-dec" target="_blank">
-       <img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
+       <img alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/phu024/phu024/d145f64e74ad71027308d0d41fbb7b7f65822a0a/svg/linkedin-svgrepo-com.svg">
    </a>
     <a href="https://www.instagram.com/iam.phu_" target="_blank">
        <img alt="Instagram" width="25px" src="https://github.com/phu024/phu024/blob/main/svg/Instagram.svg">
