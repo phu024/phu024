@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-<p href="https://github.com/phu024">
-<!--   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&hide=htmle" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true" alt="Martin's GitHub Stats" />
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/phu024/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!-- 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=phu024&margin-w=15&margin-h=15&column=4"/>
