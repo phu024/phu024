@@ -42,6 +42,26 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 <a href="https://linkedin.com/in/phuwadon-dec"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 -->
+
+ ## <img src="https://github.com/phu024/phu024/blob/main/gif/Handshake.gif" width="55px"/>Connect with me  
+<p>
+  <a href="https://linkedin.com/in/phuwadon-dec">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+  </a>
+  <a href="[https://linkedin.com/in/phuwadon-dec](https://www.instagram.com/iam.phu_)">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+  </a>
+  <a href="https://www.facebook.com/phuwadon.dec" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+  </a>
+  <a href="mailto:phuwadon.dev@gmail.com?" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+  </a>
+  <a href="mailto:phuwadon.dec@proton.me?" target="_blank">
+    <img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+  </a>
+</p>
+
 <!-- ## 🌟 Github Badges -->
 <p>
 </p>
@@ -67,29 +87,10 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phu024"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=phu024&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<!-- <p><img src="https://visitcount.itsvg.in/api?id=phu024&label=Profile%20Views&color=12&icon=5&pretty=true"><p> -->
 
 
-<div align="center">
-   <h3> Connect with me
-      <a href="https://gifyu.com/image/Zy2f">
-         <img src="https://github.com/phu024/phu024/blob/main/gif/Handshake.gif" width="50px"/>
-      </a>
-   </h3> 
-</div>      
-<p align="center">
-    <a href="https://www.linkedin.com/in/phuwadon-dec" target="_blank">
-       <img alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/phu024/phu024/d145f64e74ad71027308d0d41fbb7b7f65822a0a/svg/linkedin-svgrepo-com.svg">
-   </a>
-    <a href="https://www.instagram.com/iam.phu_" target="_blank">
-       <img alt="Instagram" width="25px" src="https://github.com/phu024/phu024/blob/main/svg/Instagram.svg">
-   </a>
-    <a href="https://www.facebook.com/phuwadon.dec" target="_blank">
-       <img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg">
-   </a>
-    <a href="mailto:phuwadon.dev@gmail.com?" target="_blank">
-       <img alt="Gmail" width="25px" src="https://github.com/phu024/phu024/blob/main/svg/Gmail.svg">
-   </a>
-</p>
+
+
 
 ![](https://komarev.com/ghpvc/?username=phu024&label=views)
