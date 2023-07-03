@@ -1,4 +1,6 @@
 # Hi there 👋, My name is Phuwadon Decharam
+<p align="center"><img src="https://github.com/phu024/phu024/blob/main/gif/Phuwadon-Decharam.gif" width="1080px"></p>
+
 ## 💫 Little Bit About Me
 
 I am a Computer Engineering Master's student at Suranaree University of Technology in Thailand, specializing in software development and testing. Passionate about continuous learning, I eagerly embrace new challenges and consider myself a quick learner. With a keen eye for detail and a creative mindset, I approach problem-solving in innovative ways. As a team player, I am always ready to assist others and contribute to collective success.
