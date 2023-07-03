@@ -5,7 +5,7 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 
 
 ## 💻 Skills
-### Programming Langueages
+### Programming Languages
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -13,6 +13,7 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ### Frontend Development
@@ -27,7 +28,7 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 
 ### Back Development
 <p>
-<img salt="springboot" src ="https://img.shields.io/badge/spring boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+<img src ="https://img.shields.io/badge/spring boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -35,13 +36,20 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
+<!--
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/phuwadon-dec"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
+-->
 <!-- ## 🌟 Github Badges -->
 <p>
+</p>
+
+## 📑 Blog Articles
+<p >
+  <a target="_blank"href="https://dev.to/phuwadon"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" style="margin-bottom: 4px;" height="30px"/></a>
+  <a target="_blank"href="https://medium.com@phu024"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🏆 GitHub Trophies
