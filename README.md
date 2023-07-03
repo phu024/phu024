@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuwadon Decharam</h1>
-<h3 >I am a Computer Engineering Master's student at Suranaree University of Technology in Thailand, specializing in software development and testing. Passionate about continuous learning, I eagerly embrace new challenges and consider myself a quick learner. With a keen eye for detail and a creative mindset, I approach problem-solving in innovative ways. As a team player, I am always ready to assist others and contribute to collective success.</h3>
+<p>I am a Computer Engineering Master's student at Suranaree University of Technology in Thailand, specializing in software development and testing. Passionate about continuous learning, I eagerly embrace new challenges and consider myself a quick learner. With a keen eye for detail and a creative mindset, I approach problem-solving in innovative ways. As a team player, I am always ready to assist others and contribute to collective success.<p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phu024" alt="phu024" /></a> </p>
