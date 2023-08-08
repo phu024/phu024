@@ -15,7 +15,6 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ### Frontend Development
