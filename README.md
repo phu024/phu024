@@ -20,12 +20,12 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 
 ### Frontend Development
 <p>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<!--<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">-->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">
+<!--<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">-->
+<!--<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">-->
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<!--<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">-->
 </p>
 
 ### Back Development
