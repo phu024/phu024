@@ -86,7 +86,7 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/phu024"><p>
+<!-- <p><img src="https://metrics.lecoq.io/phu024"><p> -->
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phu024"><p>
 
