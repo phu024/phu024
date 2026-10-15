@@ -51,12 +51,12 @@ I am a Computer Engineering Master's student at Suranaree University of Technolo
   <a href="https://linkedin.com/in/phuwadon-dec">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
   </a>
-  <a href="[https://linkedin.com/in/phuwadon-dec](https://www.instagram.com/iam.phu_)">
+  <!-- <a href="[https://linkedin.com/in/phuwadon-dec](https://www.instagram.com/iam.phu_)">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
-  <a href="https://www.facebook.com/phuwadon.dec" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.facebook.com/phuwadon.dec" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
+  </a> -->
   <a href="mailto:phuwadon.dev@gmail.com?" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
   </a>
