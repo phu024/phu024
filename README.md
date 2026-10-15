@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/phu024/phu024/raw/main/gif/Phuwadon-Decharam.gif" width="100%">
+<!-- <img src="https://github.com/phu024/phu024/raw/main/gif/Phuwadon-Decharam.gif" width="100%"> -->
 
 # Hi there 👋, I'm Phuwadon Decharam
 
