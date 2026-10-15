@@ -1,99 +1,109 @@
-# Hi there 👋, My name is Phuwadon Decharam
-<p align="center"><img src="https://github.com/phu024/phu024/blob/main/gif/Phuwadon-Decharam.gif" width="1080px"></p>
+<div align="center">
+
+<img src="https://github.com/phu024/phu024/raw/main/gif/Phuwadon-Decharam.gif" width="100%">
+
+# Hi there 👋, I'm Phuwadon Decharam
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Analyst+%28SA%29+%F0%9F%93%8B;Bridging+business+%26+technology+%F0%9F%A4%9D;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+</div>
 
 ## 💫 Little Bit About Me
-<!--
-I am a Master's student in Computer Engineering at Suranaree University of Technology in Thailand, with a focus on software development and testing.
 
-I am a Computer Engineering Master's student at Suranaree University of Technology in Thailand, specializing in software development and testing. Passionate about continuous learning, I eagerly embrace new challenges and consider myself a quick learner. With a keen eye for detail and a creative mindset, I approach problem-solving in innovative ways. As a team player, I am always ready to assist others and contribute to collective success.
--->
+- 💼 **Systems Analyst (SA)** based in Thailand 🇹🇭
+- 💻 Background in software development across frontend & backend
+- 🌱 Passionate about continuous learning — a quick learner who enjoys new challenges
+- 🔍 Keen eye for detail with a creative approach to problem-solving
+- 🤝 Team player, always ready to help others and contribute to shared success
+- ✍️ I write on [dev.to](https://dev.to/phuwadon) and [Medium](https://medium.com/@phu024)
 
-## 💻 Skills
-### Programming Languages
-<p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
+## 🧭 What I Do
+
+- 📝 Gather and analyze business requirements, then turn them into clear specs
+- 🔄 Map business processes and design system workflows
+- 🗄️ Design data structures and work with databases (MySQL, SQL Server)
+- 🤝 Bridge stakeholders and the dev team so the right thing gets built
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" alt="Java" title="Java">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/go/go-original-wordmark.svg" alt="Go" title="Go">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" title="React">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" alt="Angular" title="Angular">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js">&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" alt="Express" title="Express"></picture>&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/ffffff"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" alt="Django" title="Django"></picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" alt="Figma" title="Figma">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jira/jira-original.svg" alt="Jira" title="Jira">&nbsp;
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence">
+    </td>
+  </tr>
+</table>
+
+## <img src="https://github.com/phu024/phu024/raw/main/gif/Handshake.gif" width="35px"/> Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/phuwadon-dec" target="_blank"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:phuwadon.dev@gmail.com" target="_blank"><img width="40" height="40" src="https://cdn.simpleicons.org/gmail" alt="Gmail" title="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:phuwadon.dec@proton.me" target="_blank"><img width="40" height="40" src="https://cdn.simpleicons.org/protonmail" alt="ProtonMail" title="ProtonMail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/phuwadon" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/devdotto/ffffff"><img width="40" height="40" src="https://cdn.simpleicons.org/devdotto" alt="dev.to" title="dev.to"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@phu024" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="40" height="40" src="https://cdn.simpleicons.org/medium" alt="Medium" title="Medium"></picture></a>
 </p>
 
-### Frontend Development
-<p>
-<!--<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">-->
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<!--<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">-->
-<!--<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">-->
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<!--<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">-->
+## 📊 GitHub Stats
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true&count_private=true&theme=default&hide_border=true&border_radius=12&bg_color=F6F8FA" alt="GitHub Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&layout=compact&theme=tokyonight&hide_border=true&border_radius=12">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&layout=compact&theme=default&hide_border=true&border_radius=12&bg_color=F6F8FA" alt="Top Languages">
+</picture>
 </p>
 
-### Back Development
-<p>
-<img src ="https://img.shields.io/badge/spring boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=phu024&theme=tokyonight&hide_border=true&border_radius=12">
+  <img src="https://streak-stats.demolab.com?user=phu024&theme=default&hide_border=true&border_radius=12&background=F6F8FA" alt="GitHub Streak">
+</picture>
 </p>
 
-<!--
-## 👥 Connect With Me
-<p>
-<a href="https://linkedin.com/in/phuwadon-dec"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
--->
+<p align="center"><i>⭐ Thanks for stopping by! ⭐</i></p>
 
- ## <img src="https://github.com/phu024/phu024/blob/main/gif/Handshake.gif" width="55px"/>Connect with me  
-<p>
-  <a href="https://linkedin.com/in/phuwadon-dec">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
-  <!-- <a href="[https://linkedin.com/in/phuwadon-dec](https://www.instagram.com/iam.phu_)">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a> -->
-  <!-- <a href="https://www.facebook.com/phuwadon.dec" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a> -->
-  <a href="mailto:phuwadon.dev@gmail.com?" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
-  <a href="mailto:phuwadon.dec@proton.me?" target="_blank">
-    <img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=phu024&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"></p>
 
-<!-- ## 🌟 Github Badges -->
-<p>
-</p>
-
-## 📑 Blog Articles
-<p >
-  <a target="_blank"href="https://dev.to/phuwadon"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" style="margin-bottom: 4px;" height="30px"/></a>
-  <a target="_blank"href="https://medium.com/@phu024"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=phu024">
-</p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=phu024&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu024&layout=compact"><p>
-
-<!-- <p><img src="https://metrics.lecoq.io/phu024"><p> -->
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phu024"><p>
-
-<!-- <p><img src="https://visitcount.itsvg.in/api?id=phu024&label=Profile%20Views&color=12&icon=5&pretty=true"><p> -->
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=phu024&label=views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=100&section=footer" width="100%">
