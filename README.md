@@ -2,13 +2,13 @@
 
 <!-- <img src="https://github.com/phu024/phu024/raw/main/gif/Phuwadon-Decharam.gif" width="100%"> -->
 
-# Hi there 👋, I'm Phuwadon Decharam
+# Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="40" height="40" />, I'm Phuwadon Decharam
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Analyst+%28SA%29+%F0%9F%93%8B;Bridging+business+%26+technology+%F0%9F%A4%9D;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
-## 💫 Little Bit About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="✨" width="30" height="30" /> Little Bit About Me
 
 - 💼 **Systems Analyst (SA)** based in Thailand 🇹🇭
 - 💻 Background in software development across frontend & backend
@@ -17,14 +17,14 @@
 - 🤝 Team player, always ready to help others and contribute to shared success
 - ✍️ I write on [dev.to](https://dev.to/phuwadon) and [Medium](https://medium.com/@phu024)
 
-## 🧭 What I Do
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="🧭" width="30" height="30" /> What I Do
 
 - 📝 Gather and analyze business requirements, then turn them into clear specs
 - 🔄 Map business processes and design system workflows
 - 🗄️ Design data structures and work with databases (MySQL, SQL Server)
 - 🤝 Bridge stakeholders and the dev team so the right thing gets built
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="30" height="30" /> Tech Stack
 
 <table align="center">
   <tr>
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-## <img src="https://github.com/phu024/phu024/raw/main/gif/Handshake.gif" width="35px"/> Connect with me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="🤝" width="30" height="30" /> Connect with me
 
 <p align="center">
 <a href="https://linkedin.com/in/phuwadon-dec" target="_blank"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,7 +82,7 @@
 <a href="https://medium.com/@phu024" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff"><img width="40" height="40" src="https://cdn.simpleicons.org/medium" alt="Medium" title="Medium"></picture></a>
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="30" height="30" /> GitHub Stats
 
 <p align="center">
 <picture>
@@ -102,7 +102,7 @@
 </picture>
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by! ⭐</i></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="⭐" width="22" height="22" /> <i>Thanks for stopping by!</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="⭐" width="22" height="22" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=phu024&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"></p>
 
